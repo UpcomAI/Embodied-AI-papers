@@ -12,6 +12,10 @@
 
 ## 📜 Content
 
--[Embodied-AI-papers](#embodied-ai-papers)
-  - [🤖🌄 Grounding Language to Robot Skills](#-grounding-language-to-robot-skills)
+- [Embodied-AI-papers](#embodied-ai-papers)
+  - [📜Content](#-content)
+    - [🤖🌄 Grounding Language to Robot Skills](#-grounding-language-to-robot-skills)
+   
+### Grounding Language to Robot Skills
+
 - \[[arXiv 2024](https://arxiv.org/abs/2210.01911)\] Grounding Language with Visual Affordances over Unstructured Data.
