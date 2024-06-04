@@ -12,6 +12,12 @@
 
 ## 📜 Content
 
--[Embodied-AI-papers](#embodied-ai-papers)
-  - [🤖🌄 KG-driven Multi-modal Learning (KG4MM)](#-kg-driven-multi-modal-learning-kg4mm)
-- \[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29828)\] Beyond Entities: A Large-Scale Multi-Modal Knowledge Graph with Triplet Fact Grounding.
+- [Embodied-AI-papers](#embodied-ai-papers)
+  - [📜 Content](#-content)
+    - [Grounding Language to Robot Skills](#grounding-language-to-robot-skills)
+   
+### Grounding Language to Robot Skills
+
+- \[[arXiv 2024](https://arxiv.org/abs/2403.17124)\] Grounding Language Plans in Demonstrations Through Counterfactual Perturbations.
+- \[[arXiv 2024](https://arxiv.org/abs/2305.19075)\] Language-Conditioned Imitation Learning with Base Skill Priors under Unstructured Data
+- \[[arXiv 2023](https://arxiv.org/abs/2210.01911)\] Grounding Language with Visual Affordances over Unstructured Data.
