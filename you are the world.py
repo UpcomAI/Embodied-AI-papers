@@ -1,1 +1,1 @@
-you are the world
+print('you are the world')
