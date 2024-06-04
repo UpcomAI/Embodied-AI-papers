@@ -12,5 +12,6 @@
 
 ## 📜 Content
 
-- [Embodied-AI-papers](#embodied-ai-papers)
-  - [📜 Content](#-content)
+-[Embodied-AI-papers](#embodied-ai-papers)
+  - [🤖🌄 KG-driven Multi-modal Learning (KG4MM)](#-kg-driven-multi-modal-learning-kg4mm)
+- \[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29828)\] Beyond Entities: A Large-Scale Multi-Modal Knowledge Graph with Triplet Fact Grounding.
