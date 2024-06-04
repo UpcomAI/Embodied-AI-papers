@@ -9,3 +9,8 @@
 🙌 This repository collects papers integrating **Embodied AI** and **large language models (LLMs)**.
 
 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
+
+## 📜 Content
+
+- [Embodied-AI-papers](#embodied-ai-papers)
+  - [📜 Content](#-content)
