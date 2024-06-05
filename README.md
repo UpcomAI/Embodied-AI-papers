@@ -1,10 +1,10 @@
 # Embodied-AI-papers
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/zjukg/KG-LLM-Papers) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zjukg/KG-LLM-Papers/blob/main/LICENSE)
-![](https://img.shields.io/github/last-commit/zjukg/KG-LLM-Papers?color=green) 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/UpcomAI/Embodied-AI-papers/) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/UpcomAI/Embodied-AI-papers/blob/main/LICENSE)
+![](https://img.shields.io/github/last-commit/UpcomAI/Embodied-AI-papers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
->What can LLMs do for ROBOTs? 
+> What can LLMs do for ROBOTs? 
 
 🙌 This repository collects papers integrating **Embodied AI** and **large language models (LLMs)**.
 
@@ -25,7 +25,7 @@
 
 ## ✨︎ Highlights
 
-- \[[arXiv 2023](https://arxiv.org/abs/2210.01911)\] Grounding Language with Visual Affordances over Unstructured Data
+- \[[arXiv 2023](https://arxiv.org/abs/2210.01911)\] Grounding Language with Visual Affordances over Unstructured Data (HULC++)
 
 ## 📥 Inbox
 
@@ -46,3 +46,4 @@
 
 - \[[arXiv 2024](https://arxiv.org/abs/2403.17124)\] Grounding Language Plans in Demonstrations Through Counterfactual Perturbations
 - \[[arXiv 2024](https://arxiv.org/abs/2305.19075)\] Language-Conditioned Imitation Learning with Base Skill Priors under Unstructured Data
+- \[[IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/abstract/document/9849097)\] \[[arXiv](https://arxiv.org/pdf/2204.06252)\] What Matters in Language Conditioned Robotic  Imitation Learning over Unstructured Data
