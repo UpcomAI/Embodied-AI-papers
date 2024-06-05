@@ -19,7 +19,7 @@
   - [✨︎ Highlights](#︎-highlights)
   - [📥 Inbox](#-inbox)
     - [Survey](#survey)
-    - [Datasets](#datasets)
+    - [Datasets \& Simulation](#datasets--simulation)
     - [General Tasks](#general-tasks)
     - [Language \& Manipulation](#language--manipulation)
 
@@ -31,19 +31,21 @@
 
 ### Survey
 
-- \[[arXiv](https://arxiv.org/pdf/2402.05741)\] Real-World Robot Applications of Foundation Models: A Review
+- \[[arXiv 2024](https://arxiv.org/pdf/2402.05741)\] Real-World Robot Applications of Foundation Models: A Review
 
-### Datasets
+### Datasets \& Simulation
 
-- \[[CoRL 2023 Workshop TGR](https://openreview.net/forum?id=zraBtFgxT0&noteId=kNJ60a3jR5)\] Open X-Embodiment: Robotic Learning Datasets and RT-X Models \[[Project](https://robotics-transformer-x.github.io)\] \[[Code](https://github.com/google-deepmind/open_x_embodiment)\]
+- \[[CoRL 2023 Workshop TGR](https://openreview.net/forum?id=zraBtFgxT0&noteId=kNJ60a3jR5)\] Open X-Embodiment: Robotic Learning Datasets and RT-X Models \[[Project](https://robotics-transformer-x.github.io)\]
+- \[[IEEE RA-L 2023](https://ieeexplore.ieee.org/document/10107764)\] Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments \[[Project](https://isaac-orbit.github.io)\]
+- \[[arXiv 2023](https://arxiv.org/pdf/2308.00055)\] Towards Building AI-CPS with NVIDIA Isaac Sim: An Industrial Benchmark and Case Study for Robotics Manipulation \[[Project](https://sites.google.com/view/ai-cps-robotics-manipulation/home)\]
 
 ### General Tasks
 
 - \[[ICRA 2024 Workshop VLMNM](https://openreview.net/forum?id=jGrtIvJBpS)\] Octo: An Open-Source Generalist Robot Policy
-- \[[arXiv](https://arxiv.org/pdf/2403.12761)\] BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs
+- \[[arXiv 2024](https://arxiv.org/pdf/2403.12761)\] BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs
 
 ### Language \& Manipulation
 
 - \[[arXiv 2024](https://arxiv.org/abs/2403.17124)\] Grounding Language Plans in Demonstrations Through Counterfactual Perturbations
 - \[[arXiv 2024](https://arxiv.org/abs/2305.19075)\] Language-Conditioned Imitation Learning with Base Skill Priors under Unstructured Data
-- \[[IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/abstract/document/9849097)\] \[[arXiv](https://arxiv.org/pdf/2204.06252)\] What Matters in Language Conditioned Robotic  Imitation Learning over Unstructured Data
+- \[[IEEE RA-L 2022](https://ieeexplore.ieee.org/abstract/document/9849097)\] \[[arXiv 2022](https://arxiv.org/pdf/2204.06252)\] What Matters in Language Conditioned Robotic  Imitation Learning over Unstructured Data
