@@ -16,17 +16,17 @@
 
 - [Embodied-AI-papers](#embodied-ai-papers)
   - [📜 Table of Content](#-table-of-content)
-  - [Highlights](#highlights)
-  - [Collected](#collected)
+  - [✨︎ Highlights](#︎-highlights)
+  - [📥 Inbox](#-inbox)
     - [Survey](#survey)
     - [Datasets](#datasets)
     - [General Tasks](#general-tasks)
     - [Language \& Manipulation](#language--manipulation)
 
-## Highlights
+## ✨︎ Highlights
 
 
-## Collected
+## 📥 Inbox
 
 ### Survey
 
