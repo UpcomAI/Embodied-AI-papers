@@ -25,6 +25,7 @@
 
 ## ✨︎ Highlights
 
+- \[[arXiv 2023](https://arxiv.org/abs/2210.01911)\] Grounding Language with Visual Affordances over Unstructured Data
 
 ## 📥 Inbox
 
@@ -45,4 +46,3 @@
 
 - \[[arXiv 2024](https://arxiv.org/abs/2403.17124)\] Grounding Language Plans in Demonstrations Through Counterfactual Perturbations
 - \[[arXiv 2024](https://arxiv.org/abs/2305.19075)\] Language-Conditioned Imitation Learning with Base Skill Priors under Unstructured Data
-- \[[arXiv 2023](https://arxiv.org/abs/2210.01911)\] Grounding Language with Visual Affordances over Unstructured Data
