@@ -12,28 +12,24 @@
 
 🥽 The papers are ranked according to our **subjective** opinions.
 
-Tags
-
-- 🦾: Manipulation
-
 ## 📜 Table of Content
 
 - [Embodied-AI-papers](#embodied-ai-papers)
   - [📜 Table of Content](#-table-of-content)
-  - [✨︎ Highlights](#︎-highlights)
-  - [📥 Inbox](#-inbox)
+  - [✨︎ Outstanding Papers](#︎-outstanding-papers)
+  - [📥 Paper Inbox](#-paper-inbox)
     - [Survey](#survey)
     - [Datasets \& Simulator](#datasets--simulator)
     - [Algorithms](#algorithms)
     - [System Implementation](#system-implementation)
 
-## ✨︎ Highlights
+## ✨︎ Outstanding Papers
 
 - \[[arXiv 2024](https://arxiv.org/pdf/2401.02117)\] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation \[[Project](https://mobile-aloha.github.io)\]
 - \[[arXiv 2024](https://arxiv.org/pdf/2402.05741)\] Real-World Robot Applications of Foundation Models: A Review
 - \[[arXiv 2023](https://arxiv.org/abs/2210.01911)\] Grounding Language with Visual Affordances over Unstructured Data (**HULC++**)
 
-## 📥 Inbox
+## 📥 Paper Inbox
 
 ### Survey
 
@@ -60,5 +56,6 @@ Tags
 
 ### System Implementation
 
-- \[[SIGCHI 2024](https://dl.acm.org/doi/proceedings/10.1145/3610978?tocHeading=heading6)] Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment (**CLEAR**) `Software`
+- \[[SIGCHI 2024](https://dl.acm.org/doi/proceedings/10.1145/3610978?tocHeading=heading6)] Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment (**CLEAR**) `[Software]`
 - \[[Autonomous Robots 2023](https://link.springer.com/article/10.1007/s10514-023-10139-z)\] TidyBot: personalized robot assistance with large language models \[[Project](https://tidybot.cs.princeton.edu)\]
+- \[[RSS 2024](https://roboticsconference.org/program/papers/016/)\]Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware (**ALOHA**)
