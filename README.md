@@ -22,6 +22,7 @@
     - [Datasets \& Simulator](#datasets--simulator)
     - [Algorithms](#algorithms)
     - [System Implementation](#system-implementation)
+    - [Real2Sim2Real](#real2sim2real)
 
 ## ✨︎ Outstanding Papers
 
@@ -47,10 +48,11 @@
 - \[[arXiv 2024](https://arxiv.org/pdf/2403.12761)\] BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs
 - \[[arXiv 2024](https://arxiv.org/abs/2403.17124)\] Grounding Language Plans in Demonstrations Through Counterfactual Perturbations
 - \[[arXiv 2024](https://arxiv.org/abs/2305.19075)\] Language-Conditioned Imitation Learning with Base Skill Priors under Unstructured Data
+- \[[arXiv 2024](https://arxiv.org/pdf/2403.11289)\] ManipVQA: Injecting Robotic Affordance and Physically Grounded  Information into Multi-Modal Large Language Models \[[Code](https://github.com/SiyuanHuang95/ManipVQA)\]
 - \[[ICRA 2023](https://ieeexplore.ieee.org/abstract/document/10160591)\] Code as Policies: Language Model Programs for Embodied Control \[[Project](https://code-as-policies.github.io)\]
 - \[[CoRL 2023](https://openreview.net/forum?id=8yTS_nAILxt)\] REFLECT: Summarizing Robot Experiences for FaiLure Explanation and CorrecTion \[[Project](https://robot-reflect.github.io/)\]
-- \[[CoRL 2023](https://openreview.net/forum?id=4ZK8ODNyFXx)] Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners \[[Project](https://robot-help.github.io)\]
-- \[[NeurIPS 2023 poster](https://openreview.net/forum?id=KtvPdGb31Z&referrer=%5Bthe%20profile%20of%20Anji%20Liu%5D(%2Fprofile%3Fid%3D~Anji_Liu1))\] Describe, Explain, Plan and Select: Interactive Planning with Large Language Models  Enables Open-World Multi-Task Agents \[[Project](https://github.com/CraftJarvis/MC-Planner.)\] `[Minecraft]`
+- \[[CoRL 2023](https://openreview.net/forum?id=4ZK8ODNyFXx)\] Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners \[[Project](https://robot-help.github.io)\]
+- \[[NeurIPS 2023 Poster](https://openreview.net/forum?id=KtvPdGb31Z&referrer=%5Bthe%20profile%20of%20Anji%20Liu%5D(%2Fprofile%3Fid%3D~Anji_Liu1))\] Describe, Explain, Plan and Select: Interactive Planning with Large Language Models  Enables Open-World Multi-Task Agents \[[Project](https://github.com/CraftJarvis/MC-Planner.)\] `[Minecraft]`
 - \[[IEEE RA-L 2022](https://ieeexplore.ieee.org/abstract/document/9849097)\] What Matters in Language Conditioned Robotic Imitation Learning over Unstructured Data \[[Project](http://hulc.cs.uni-freiburg.de)\]
 - \[[ICRA 2022](https://ieeexplore.ieee.org/abstract/document/9811889)\] Affordance Learning from Play for Sample-Efficient Policy Learning \[[Project](http://vapo.cs.uni-freiburg.de)\] (**VAPO**) `[w/o LLM]`
 
@@ -59,3 +61,7 @@
 - \[[SIGCHI 2024](https://dl.acm.org/doi/proceedings/10.1145/3610978?tocHeading=heading6)] Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment (**CLEAR**) `[Software]`
 - \[[Autonomous Robots 2023](https://link.springer.com/article/10.1007/s10514-023-10139-z)\] TidyBot: personalized robot assistance with large language models \[[Project](https://tidybot.cs.princeton.edu)\]
 - \[[RSS 2024](https://roboticsconference.org/program/papers/016/)\]Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware (**ALOHA**)
+
+### Real2Sim2Real
+
+- \[[arXiv 2024](https://arxiv.org/pdf/2403.03949)\] Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation \[[Project](https://real-to-sim-to-real.github.io/RialTo/)\]
