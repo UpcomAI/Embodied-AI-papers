@@ -48,7 +48,7 @@
 - \[[arXiv 2024](https://arxiv.org/pdf/2403.12761)\] BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs
 - \[[arXiv 2024](https://arxiv.org/abs/2403.17124)\] Grounding Language Plans in Demonstrations Through Counterfactual Perturbations
 - \[[arXiv 2024](https://arxiv.org/abs/2305.19075)\] Language-Conditioned Imitation Learning with Base Skill Priors under Unstructured Data
-- \[[arXiv 2024](https://arxiv.org/pdf/2403.11289)\] ManipVQA: Injecting Robotic Affordance and Physically Grounded  Information into Multi-Modal Large Language Models \[[Code](https://github.com/SiyuanHuang95/ManipVQA)\]
+- \[[arXiv 2024](https://arxiv.org/pdf/2403.11289)\] ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models \[[Code](https://github.com/SiyuanHuang95/ManipVQA)\]
 - \[[ICRA 2023](https://ieeexplore.ieee.org/abstract/document/10160591)\] Code as Policies: Language Model Programs for Embodied Control \[[Project](https://code-as-policies.github.io)\]
 - \[[CoRL 2023](https://openreview.net/forum?id=8yTS_nAILxt)\] REFLECT: Summarizing Robot Experiences for FaiLure Explanation and CorrecTion \[[Project](https://robot-reflect.github.io/)\]
 - \[[CoRL 2023](https://openreview.net/forum?id=4ZK8ODNyFXx)\] Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners \[[Project](https://robot-help.github.io)\]
