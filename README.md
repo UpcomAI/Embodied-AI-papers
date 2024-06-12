@@ -34,6 +34,8 @@
 ### Survey
 
 - \[[arXiv 2024](https://arxiv.org/pdf/2312.10807)] Language-conditioned Learning for Robotic Manipulation: A Survey
+- \[[arXiv 2024](https://arxiv.org/pdf/2402.05741)\] Real-World Robot Applications of Foundation Models: A Review
+- \[[arXiv 2023](https://arxiv.org/pdf/2312.07843)\] Foundation Models in Robotics: Applications, Challenges, and the Future
 
 ### Datasets \& Simulator
 
