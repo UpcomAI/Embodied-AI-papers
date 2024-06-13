@@ -118,6 +118,14 @@
 - Spatiotemporal Predictive Pre-training for Robotic Motor Control
 - MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation
 
+#### Long Video Understanding
+
+- \[[arXiv 2024](https://arxiv.org/pdf/2404.04346)\] Koala: Key frame-conditioned long video-LLM
+- \[[arXiv 2024](https://arxiv.org/pdf/2404.00308)\] ST-LLM: Large Language Models Are Effective Temporal Learners
+- \[[arXiv 2024](https://arxiv.org/pdf/2404.05726)\] MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding
+- \[[arXiv 2024](https://arxiv.org/pdf/2404.03384)\] LongVLM: Efficient Long Video Understanding via Large Language Models
+- \[[arXiv 2023](https://arxiv.org/pdf/2307.16449v2)\] MovieChat: From Dense Token to Sparse Memory for Long Video Understanding
+
 ### System Implementation
 
 - \[[SIGCHI 2024](https://dl.acm.org/doi/proceedings/10.1145/3610978?tocHeading=heading6)] Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment (**CLEAR**) `[Software]`
