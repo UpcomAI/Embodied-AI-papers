@@ -39,6 +39,8 @@
 ### Survey
 
 - \[[arXiv 2024](https://arxiv.org/pdf/2312.10807)] Language-conditioned Learning for Robotic Manipulation: A Survey
+- \[[arXiv 2024](https://arxiv.org/pdf/2402.05741)\] Real-World Robot Applications of Foundation Models: A Review
+- \[[arXiv 2023](https://arxiv.org/pdf/2312.07843)\] Foundation Models in Robotics: Applications, Challenges, and the Future
 
 ### Datasets \& Simulator
 
@@ -116,6 +118,14 @@
 - \[[ICLR 2023 RRL Poster](https://openreview.net/forum?id=TIV7eEY8qY)\] Chain-of-thought predictive control
 - \[[ICML 2023](https://dl.acm.org/doi/abs/10.5555/3618408.3618914)\] On pre-training for visuo-motor control: Revisiting a learning-from-scratch baseline
 - \[[arXiv 2023](https://arxiv.org/pdf/2309.14236)\] MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation
+
+#### Long Video Understanding
+
+- \[[arXiv 2024](https://arxiv.org/pdf/2404.04346)\] Koala: Key frame-conditioned long video-LLM
+- \[[arXiv 2024](https://arxiv.org/pdf/2404.00308)\] ST-LLM: Large Language Models Are Effective Temporal Learners
+- \[[arXiv 2024](https://arxiv.org/pdf/2404.05726)\] MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding
+- \[[arXiv 2024](https://arxiv.org/pdf/2404.03384)\] LongVLM: Efficient Long Video Understanding via Large Language Models
+- \[[arXiv 2023](https://arxiv.org/pdf/2307.16449v2)\] MovieChat: From Dense Token to Sparse Memory for Long Video Understanding
 
 ### System Implementation
 
