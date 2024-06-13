@@ -26,6 +26,7 @@
       - [Policy](#policy)
       - [Action](#action)
       - [Control](#control)
+      - [Long Video Understanding](#long-video-understanding)
     - [System Implementation](#system-implementation)
 
 ## ✨︎ Outstanding Papers
@@ -59,26 +60,26 @@
 
 ### Algorithms
 
-- Rt-1: Robotics transformer for real-world control at scale
-- Palm-e: An embodied multimodal language model
-- Rt-2: Vision-language-action models transfer web knowledge to robotic control
-- Steve-1: A generative model for text-to-behavior in minecraft
-- Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions
-- Diffusion model is an effective planner and data synthesizer for multi-task reinforcement learning
-- Liv: Language-image representations and rewards for robotic control
-- Supervised pretraining can learn in-context reinforcement learning
-- Robocat: A self-improving foundation agent for robotic manipulation
-- Vint: A foundation model for visual navigation
-- Foundation reinforcement learning: towards embodied generalist agents with foundation prior assistance
+- \[[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2023/file/8644b61a9bc87bf7844750a015feb600-Paper-Conference.pdf)\] Supervised pretraining can learn in-context reinforcement learning
+- \[[TMLR 2024](https://openreview.net/forum?id=vsCpILiWHu)\] Robocat: A self-improving foundation agent for robotic manipulation
+- \[[ICML 2023](https://dl.acm.org/doi/abs/10.5555/3618408.3618748)\] PaLM-E: An embodied multimodal language model \[[Project](https://palm-e.github.io)\]
+- \[[arXiv 2023](https://arxiv.org/abs/2307.15818) RT-2: Vision-language-action models transfer web knowledge to robotic control \[[Project](https://robotics-transformer2.github.io)]
+- \[[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dd03f856fc7f2efeec8b1c796284561d-Abstract-Conference.html)\] STEVE-1: A generative model for text-to-behavior in minecraft \[[Project](https://steve-1.github.io)\] `Minecraft`
+- \[[CoRL 2023](https://proceedings.mlr.press/v229/chebotar23a/chebotar23a.pdf)] Q-transformer: Scalable offline reinforcement learning via autoregressive q-functions \[[Project](https://qtansformer.github.io)\]
+- \[[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/ccda3c632cc8590ee60ca5ba226a4c30-Paper-Conference.pdf)\] Diffusion model is an effective planner and data synthesizer for multi-task reinforcement learning
+- \[[ICML 2023](https://proceedings.mlr.press/v202/ma23b/ma23b.pdf)\] LIV: Language-image representations and rewards for robotic control
+- \[[PMLR 2023](https://proceedings.mlr.press/v229/shah23a.html)\] ViNT: A foundation model for visual navigation
+- \[[arXiv 2023](https://arxiv.org/abs/2310.02635)] Foundation reinforcement learning: towards embodied generalist agents with foundation prior assistance
+- \[[arXiv 2022](https://arxiv.org/pdf/2212.06817)\] RT-1: Robotics transformer for real-world control at scale \[[Project](https://robotics-transformer-x.github.io)\]
 
 ### Applications
 
 #### Perception
 
-- Affordancellm: Grounding affordance from vision language models
+- \[[arXiv 2024](https://arxiv.org/pdf/2401.06341)\] Affordancellm: Grounding affordance from vision language models \[[Project](https://jasonqsy.github.io/AffordanceLLM)\]
 - \[[arXiv 2024](https://arxiv.org/pdf/2309.02561)\] Physically Grounded Vision-Language Models for Robotic Manipulation
 - \[[CoRL 2023](https://openreview.net/forum?id=8yTS_nAILxt)\] REFLECT: Summarizing Robot Experiences for FaiLure Explanation and CorrecTion \[[Project](https://robot-reflect.github.io/)\]
-- Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding
+- \[[arXiv 2023](https://arxiv.org/pdf/2304.06906)\] Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding `3D`
 - \[[ICRA 2022](https://ieeexplore.ieee.org/abstract/document/9811889)\] Affordance Learning from Play for Sample-Efficient Policy Learning \[[Project](http://vapo.cs.uni-freiburg.de)\] (**VAPO**) `[w/o LLM]`
 - \[[IEEE RA-L 2022](https://ieeexplore.ieee.org/abstract/document/9849097)\] What Matters in Language Conditioned Robotic Imitation Learning over Unstructured Data \[[Project](http://hulc.cs.uni-freiburg.de)\]
 
