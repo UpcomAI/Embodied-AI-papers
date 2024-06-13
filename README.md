@@ -23,11 +23,10 @@
     - [Algorithms](#algorithms)
     - [Applications](#applications)
       - [Perception](#perception)
-      - [Plocy](#plocy)
+      - [Policy](#policy)
       - [Action](#action)
       - [Control](#control)
     - [System Implementation](#system-implementation)
-    - [Real2Sim2Real](#real2sim2real)
 
 ## ✨︎ Outstanding Papers
 
@@ -56,7 +55,7 @@
 - Rh20t: A robotic dataset for learning diverse skills in one-shot
 - Droid: A large-scale in-the-wild robot manipulation dataset
 - Ar2-d2: Training a robot without a robot
-- OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion `dual-arm`
+- OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion `Dual-Arm`
 
 ### Algorithms
 
@@ -79,10 +78,11 @@
 - Affordancellm: Grounding affordance from vision language models
 - \[[arXiv 2024](https://arxiv.org/pdf/2309.02561)\] Physically Grounded Vision-Language Models for Robotic Manipulation
 - \[[CoRL 2023](https://openreview.net/forum?id=8yTS_nAILxt)\] REFLECT: Summarizing Robot Experiences for FaiLure Explanation and CorrecTion \[[Project](https://robot-reflect.github.io/)\]
+- Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding
 - \[[ICRA 2022](https://ieeexplore.ieee.org/abstract/document/9811889)\] Affordance Learning from Play for Sample-Efficient Policy Learning \[[Project](http://vapo.cs.uni-freiburg.de)\] (**VAPO**) `[w/o LLM]`
 - \[[IEEE RA-L 2022](https://ieeexplore.ieee.org/abstract/document/9849097)\] What Matters in Language Conditioned Robotic Imitation Learning over Unstructured Data \[[Project](http://hulc.cs.uni-freiburg.de)\]
 
-#### Plocy
+#### Policy
 
 - \[[ICRA 2024 Workshop VLMNM](https://openreview.net/forum?id=jGrtIvJBpS)\] Octo: An Open-Source Generalist Robot Policy
 - Language models as zero-shot trajectory generators
@@ -109,6 +109,7 @@
 - MOMA-Force: Visual-Force Imitation for Real-World Mobile Manipulation
 - Object-centric instruction augmentation for robotic manipulation
 
+
 #### Control
 
 - Robot learning with sensorimotor pre-training
@@ -131,6 +132,7 @@
 - \[[SIGCHI 2024](https://dl.acm.org/doi/proceedings/10.1145/3610978?tocHeading=heading6)] Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment (**CLEAR**) `[Software]`
 - \[[Autonomous Robots 2023](https://link.springer.com/article/10.1007/s10514-023-10139-z)\] TidyBot: personalized robot assistance with large language models \[[Project](https://tidybot.cs.princeton.edu)\]
 - \[[RSS 2024](https://roboticsconference.org/program/papers/016/)\]Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware (**ALOHA**)
-
-### Real2Sim2Real
-
+- Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity `Dual-Arm`
+  - Palm 2 technical report
+  - Simple Open-Vocabulary Object Detection with Vision Transformers
+  - Robotic Table Wiping via Reinforcement Learning and Whole-body Trajectory Optimization
