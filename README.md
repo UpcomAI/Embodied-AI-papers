@@ -112,12 +112,12 @@
 
 #### Control
 
-- Robot learning with sensorimotor pre-training
-- A generalist dynamics model for control
-- Chain-of-thought predictive control
-- On pre-training for visuo-motor control: Revisiting a learning-from-scratch baseline
-- Spatiotemporal Predictive Pre-training for Robotic Motor Control
-- MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation
+- \[[arXiv 2024](https://arxiv.org/pdf/2403.05304)\] Spatiotemporal Predictive Pre-training for Robotic Motor Control
+- \[[PMLR 2023](https://proceedings.mlr.press/v229/radosavovic23a.html)\] Robot learning with sensorimotor pre-training
+- \[[arXiv 2023](https://arxiv.org/abs/2305.10912)\] A generalist dynamics model for control
+- \[[ICLR 2023 RRL Poster](https://openreview.net/forum?id=TIV7eEY8qY)\] Chain-of-thought predictive control
+- \[[ICML 2023](https://dl.acm.org/doi/abs/10.5555/3618408.3618914)\] On pre-training for visuo-motor control: Revisiting a learning-from-scratch baseline
+- \[[arXiv 2023](https://arxiv.org/pdf/2309.14236)\] MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation
 
 #### Long Video Understanding
 
@@ -132,7 +132,7 @@
 - \[[SIGCHI 2024](https://dl.acm.org/doi/proceedings/10.1145/3610978?tocHeading=heading6)] Language, Camera, Autonomy! Prompt-engineered Robot Control for Rapidly Evolving Deployment (**CLEAR**) `[Software]`
 - \[[Autonomous Robots 2023](https://link.springer.com/article/10.1007/s10514-023-10139-z)\] TidyBot: personalized robot assistance with large language models \[[Project](https://tidybot.cs.princeton.edu)\]
 - \[[RSS 2024](https://roboticsconference.org/program/papers/016/)\]Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware (**ALOHA**)
-- Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity `Dual-Arm`
-  - Palm 2 technical report
-  - Simple Open-Vocabulary Object Detection with Vision Transformers
-  - Robotic Table Wiping via Reinforcement Learning and Whole-body Trajectory Optimization
+- \[[arXiv 2024](https://arxiv.org/pdf/2404.03570)\] Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity `Dual-Arm`
+  - \[[arXiv 2023](https://arxiv.org/pdf/2305.10403)\] Palm 2 technical report
+  - \[[arXiv 2022](https://arxiv.org/pdf/2205.06230)\] Simple Open-Vocabulary Object Detection with Vision Transformers
+  - \[[ICRA 2023](https://ieeexplore.ieee.org/abstract/document/10161283/)\] Robotic Table Wiping via Reinforcement Learning and Whole-body Trajectory Optimization
