@@ -28,7 +28,6 @@
       - [Control](#control)
     - [System Implementation](#system-implementation)
     - [Real2Sim2Real](#real2sim2real)
-    - [Physical](#physical)
 
 ## ✨︎ Outstanding Papers
 
@@ -76,6 +75,7 @@
 #### Perception
 
 - Affordancellm: Grounding affordance from vision language models
+- \[[arXiv 2024](https://arxiv.org/pdf/2309.02561)\] Physically Grounded Vision-Language Models for Robotic Manipulation
 - \[[CoRL 2023](https://openreview.net/forum?id=8yTS_nAILxt)\] REFLECT: Summarizing Robot Experiences for FaiLure Explanation and CorrecTion \[[Project](https://robot-reflect.github.io/)\]
 - \[[ICRA 2022](https://ieeexplore.ieee.org/abstract/document/9811889)\] Affordance Learning from Play for Sample-Efficient Policy Learning \[[Project](http://vapo.cs.uni-freiburg.de)\] (**VAPO**) `[w/o LLM]`
 - - \[[IEEE RA-L 2022](https://ieeexplore.ieee.org/abstract/document/9849097)\] What Matters in Language Conditioned Robotic Imitation Learning over Unstructured Data \[[Project](http://hulc.cs.uni-freiburg.de)\]
@@ -97,6 +97,7 @@
 
 #### Action
 
+- \[[arXiv 2024](https://arxiv.org/pdf/2403.03949)\] Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation \[[Project](https://real-to-sim-to-real.github.io/RialTo/)\]
 - \[[arXiv 2024](https://arxiv.org/abs/2305.19075)\] Language-Conditioned Imitation Learning with Base Skill Priors under Unstructured Data
 - Zero-shot robotic manipulation with pretrained image-editing diffusion models
 - \[[NeurIPS 2023 Poster](https://openreview.net/forum?id=KtvPdGb31Z&referrer=%5Bthe%20profile%20of%20Anji%20Liu%5D(%2Fprofile%3Fid%3D~Anji_Liu1))\] Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents \[[Project](https://github.com/CraftJarvis/MC-Planner.)\] `[Minecraft]`
@@ -123,8 +124,3 @@
 
 ### Real2Sim2Real
 
-- \[[arXiv 2024](https://arxiv.org/pdf/2403.03949)\] Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation \[[Project](https://real-to-sim-to-real.github.io/RialTo/)\]
-
-### Physical
-
-- \[[arXiv 2024](https://arxiv.org/pdf/2309.02561)\]Physically Grounded Vision-Language Models for Robotic Manipulation
