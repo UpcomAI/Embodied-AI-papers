@@ -61,6 +61,7 @@
 ### Algorithms
 
 - \[[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2023/file/8644b61a9bc87bf7844750a015feb600-Paper-Conference.pdf)\] Supervised pretraining can learn in-context reinforcement learning
+- \[[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4ec43957eda1126ad4887995d05fae3b-Abstract-Conference.html)\] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought \[[Project](https://EmbodiedGPT.github.io)\]
 - \[[TMLR 2024](https://openreview.net/forum?id=vsCpILiWHu)\] Robocat: A self-improving foundation agent for robotic manipulation
 - \[[ICML 2023](https://dl.acm.org/doi/abs/10.5555/3618408.3618748)\] PaLM-E: An embodied multimodal language model \[[Project](https://palm-e.github.io)\]
 - \[[arXiv 2023](https://arxiv.org/abs/2307.15818) RT-2: Vision-language-action models transfer web knowledge to robotic control \[[Project](https://robotics-transformer2.github.io)]
