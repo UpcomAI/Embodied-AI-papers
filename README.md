@@ -94,10 +94,10 @@
 - \[[arXiv 2024](https://arxiv.org/pdf/2403.11289)\] ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models \[[Code](https://github.com/SiyuanHuang95/ManipVQA)\]
 - \[[ICRA 2023](https://ieeexplore.ieee.org/abstract/document/10160591)\] Code as Policies: Language Model Programs for Embodied Control \[[Project](https://code-as-policies.github.io)\]
 - \[[CoRL 2023](https://openreview.net/forum?id=4ZK8ODNyFXx)\] Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners \[[Project](https://robot-help.github.io)\]
-- Roboclip: One demonstration is enough to learn robot policies
-- Skill transformer: A monolithic policy for mobile manipulation
-- Generalizable long-horizon manipulations with large language models
-- LLM-MARS: Large Language Model for Behavior Tree Generation and NLP-enhanced Dialogue in Multi-Agent Robot Systems
+- \[[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae54ce310476218f26dd48c1626d5187-Abstract-Conference.html)\] Roboclip: One demonstration is enough to learn robot policies \[[Project](https://sites.google.com/view/roboclip/home)\]
+- \[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Skill_Transformer_A_Monolithic_Policy_for_Mobile_Manipulation_ICCV_2023_paper.pdf)\] Skill transformer: A monolithic policy for mobile manipulation
+- \[[arXiv 2023](https://arxiv.org/pdf/2310.02264)\] Generalizable long-horizon manipulations with large language models
+- \[[arXiv 2023](https://arxiv.org/pdf/2312.09348)\] LLM-MARS: Large Language Model for Behavior Tree Generation and NLP-enhanced Dialogue in Multi-Agent Robot Systems
 
 #### Action
 
