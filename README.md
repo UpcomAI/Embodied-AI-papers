@@ -68,7 +68,7 @@
 - \[[ICML 2023](https://proceedings.mlr.press/v202/ma23b/ma23b.pdf)\] LIV: Language-image representations and rewards for robotic control
 - \[[PMLR 2023](https://proceedings.mlr.press/v229/shah23a.html)\] ViNT: A foundation model for visual navigation
 - \[[arXiv 2023](https://arxiv.org/abs/2310.02635)] Foundation reinforcement learning: towards embodied generalist agents with foundation prior assistance
-- - \[[arXiv 2023](https://arxiv.org/pdf/2309.02561)\] Physically grounded vision-language models for robotic manipulation \[[Project](https://iliad.stanford.edu/pg- vlm/)]
+- \[[arXiv 2023](https://arxiv.org/pdf/2309.02561)\] Physically grounded vision-language models for robotic manipulation \[[Project](https://iliad.stanford.edu/pg-vlm/)\]
 - \[[arXiv 2022](https://arxiv.org/pdf/2212.06817)\] RT-1: Robotics transformer for real-world control at scale \[[Project](https://robotics-transformer-x.github.io)\]
 
 ### Applications
