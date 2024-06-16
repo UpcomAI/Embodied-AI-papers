@@ -125,7 +125,9 @@
 - \[[arXiv 2024](https://arxiv.org/pdf/2404.00308)\] ST-LLM: Large Language Models Are Effective Temporal Learners
 - \[[arXiv 2024](https://arxiv.org/pdf/2404.05726)\] MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding
 - \[[arXiv 2024](https://arxiv.org/pdf/2404.03384)\] LongVLM: Efficient Long Video Understanding via Large Language Models
+- \[[arXiv 2024](https://arxiv.org/pdf/2403.11289)\] ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models
 - \[[arXiv 2023](https://arxiv.org/pdf/2307.16449v2)\] MovieChat: From Dense Token to Sparse Memory for Long Video Understanding
+- \[[arXiv 2023](https://arxiv.org/pdf/2305.15021)\] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought
 
 ### System Implementation
 
