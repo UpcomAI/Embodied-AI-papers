@@ -82,6 +82,7 @@
 - \[[ICRA 2022](https://ieeexplore.ieee.org/abstract/document/9811889)\] Affordance Learning from Play for Sample-Efficient Policy Learning \[[Project](http://vapo.cs.uni-freiburg.de)\] (**VAPO**) `[w/o LLM]`
 - \[[IEEE RA-L 2022](https://ieeexplore.ieee.org/abstract/document/9849097)\] What Matters in Language Conditioned Robotic Imitation Learning over Unstructured Data \[[Project](http://hulc.cs.uni-freiburg.de)\]
 - \[[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Luo_Learning_Affordance_Grounding_From_Exocentric_Images_CVPR_2022_paper.html)] Learning affordance grounding from exocentric images
+
 #### Policy
 
 - \[[ICRA 2024 Workshop VLMNM](https://openreview.net/forum?id=jGrtIvJBpS)\] Octo: An Open-Source Generalist Robot Policy
@@ -99,7 +100,6 @@
 
 #### Action
 
-- \[[arXiv 2024](https://arxiv.org/pdf/2406.09246)] OpenVLA: An Open-Source Vision-Language-Action Model \[[Project](https://openvla.github.io)\]]
 - \[[arXiv 2024](https://arxiv.org/pdf/2403.03949)\] Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation \[[Project](https://real-to-sim-to-real.github.io/RialTo/)\]
 - \[[arXiv 2024](https://arxiv.org/abs/2305.19075)\] Language-Conditioned Imitation Learning with Base Skill Priors under Unstructured Data
 - \[[arXiv 2024](https://arxiv.org/pdf/2401.02814)\] Object-centric instruction augmentation for robotic manipulation \[[Project](https://oci-robotics.github.io/)\]
