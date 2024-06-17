@@ -99,7 +99,7 @@
 
 #### Action
 
-- \[[arXiv 2024](https://arxiv.org/pdf/2406.09246)] OpenVLA: An Open-Source Vision-Language-Action Model \[[Project](https://openvla.github.io)\]]
+- \[[arXiv 2024](https://arxiv.org/pdf/2406.09246)] OpenVLA: An Open-Source Vision-Language-Action Model \[[Project](https://openvla.github.io)\]
 - \[[arXiv 2024](https://arxiv.org/pdf/2403.03949)\] Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation \[[Project](https://real-to-sim-to-real.github.io/RialTo/)\]
 - \[[arXiv 2024](https://arxiv.org/abs/2305.19075)\] Language-Conditioned Imitation Learning with Base Skill Priors under Unstructured Data
 - \[[arXiv 2024](https://arxiv.org/pdf/2401.02814)\] Object-centric instruction augmentation for robotic manipulation \[[Project](https://oci-robotics.github.io/)\]
