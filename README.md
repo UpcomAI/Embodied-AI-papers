@@ -102,7 +102,8 @@
 - \[[arXiv 2024](https://arxiv.org/pdf/2403.03949)\] Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation \[[Project](https://real-to-sim-to-real.github.io/RialTo/)\]
 - \[[arXiv 2024](https://arxiv.org/abs/2305.19075)\] Language-Conditioned Imitation Learning with Base Skill Priors under Unstructured Data
 - \[[arXiv 2024](https://arxiv.org/pdf/2401.02814)\] Object-centric instruction augmentation for robotic manipulation \[[Project](https://oci-robotics.github.io/)\]
-- \[[NeurIPS 2023 GCRL workshop](https://arxiv.org/pdf/2310.10639)\] Zero-shot robotic manipulation with pretrained image-editing diffusion models \[[Project](http://rail-berkeley.github.io/susie)]
+- \[[arXiv 2024](https://arxiv.org/pdf/2406.09246)\] OpenVLA: An Open-Source Vision-Language-Action Model \[[Project](https://openvla.github.io/)\]
+- \[[NeurIPS 2023 GCRL workshop](https://arxiv.org/pdf/2310.10639)\] Zero-shot robotic manipulation with pretrained image-editing diffusion models \[[Project](http://rail-berkeley.github.io/susie)\]
 - \[[NeurIPS 2023 Poster](https://openreview.net/forum?id=KtvPdGb31Z&referrer=%5Bthe%20profile%20of%20Anji%20Liu%5D(%2Fprofile%3Fid%3D~Anji_Liu1))\] Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents \[[Project](https://github.com/CraftJarvis/MC-Planner.)\] `[Minecraft]`
 - \[[CoRL 2023 Poster](https://openreview.net/forum?id=9al6taqfTzr)\] Open-world object manipulation using pre-trained vision-language models \[[Project](https://robot-moo.github.io/)\]
 - \[[arXiv 2023](https://arxiv.org/pdf/2306.05716)\] Pave the way to grasp anything: Transferring foundation models for universal pick-place robots
