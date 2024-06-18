@@ -132,6 +132,7 @@
 - \[[arXiv 2024](https://arxiv.org/pdf/2405.17247)\] An Introduction to Vision-Language Modeling
 - \[[arXiv 2023](https://arxiv.org/pdf/2307.16449v2)\] MovieChat: From Dense Token to Sparse Memory for Long Video Understanding
 - \[[arXiv 2023](https://arxiv.org/pdf/2305.15021)\] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought
+- \[[arXiv 2023](https://arxiv.org/pdf/2306.02858)\] Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding
 
 ### System Implementation
 
