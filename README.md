@@ -6,7 +6,7 @@
 
 > What can LLMs do for ROBOTs? 
 
-🙌 This repository collects papers integrating **Embodied AI** and **large language models (LLMs)**.
+🙌 This repository collects papers integrating **Embodied AI** and **Large Language Models (LLMs)**.
 
 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
 
