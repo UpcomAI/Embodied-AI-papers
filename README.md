@@ -27,6 +27,7 @@
       - [Action](#action)
       - [Control](#control)
       - [Long Video Understanding](#long-video-understanding)
+      - [LLM-based Video Agents](#llm-based-video-agents)
     - [System Implementation](#system-implementation)
 
 ## ✨︎ Outstanding Papers
@@ -133,6 +134,19 @@
 - \[[arXiv 2023](https://arxiv.org/pdf/2307.16449v2)\] MovieChat: From Dense Token to Sparse Memory for Long Video Understanding
 - \[[arXiv 2023](https://arxiv.org/pdf/2305.15021)\] EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought
 - \[[arXiv 2023](https://arxiv.org/pdf/2306.02858)\] Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding
+
+#### LLM-based Video Agents
+
+- \[[arXiv 2023](https://arxiv.org/pdf/2304.04227)\] Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions
+- \[[arXiv 2023](https://arxiv.org/pdf/2303.06594)\] ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions
+- \[[arXiv 2023](https://arxiv.org/pdf/2311.18799)\] X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning
+- \[[arXiv 2023](https://arxiv.org/pdf/2305.06500)\] InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning
+- \[[arXiv 2023](https://arxiv.org/pdf/2304.14407)\] ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System
+- \[[arXiv 2023](https://arxiv.org/pdf/2310.19773)\] MM-VID: Advancing Video Understanding with GPT-4V(ision)
+- \[[arXiv 2023](https://arxiv.org/pdf/2311.17435)\] MM-Narrator: Narrating Long-form Videos with Multimodal In-Context Learning
+- \[[arXiv 2023](https://arxiv.org/pdf/2310.11699)\] MISAR: A Multimodal Instructional System with Augmented Reality
+- \[[arXiv 2022](https://arxiv.org/pdf/2201.12086)\] BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
+- \[[arXiv 2022](https://arxiv.org/pdf/2204.00598)\] Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language
 
 ### System Implementation
 
