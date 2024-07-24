@@ -124,7 +124,7 @@
 
 #### Long Video Understanding
 
-- \[[arXiv](https://arxiv.org/pdf/2406.18227)\] GUIDE: A Guideline-Guided Dataset for Instructional Video Comprehension \[[Project](https://guide-ijcai2024.github.io)\]
+- \[[arXiv 2024](https://arxiv.org/pdf/2406.18227)\] GUIDE: A Guideline-Guided Dataset for Instructional Video Comprehension \[[Project](https://guide-ijcai2024.github.io)\]
 - \[[arXiv 2024](https://arxiv.org/pdf/2404.04346)\] Koala: Key frame-conditioned long video-LLM
 - \[[arXiv 2024](https://arxiv.org/pdf/2404.00308)\] ST-LLM: Large Language Models Are Effective Temporal Learners
 - \[[arXiv 2024](https://arxiv.org/pdf/2404.05726)\] MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding
